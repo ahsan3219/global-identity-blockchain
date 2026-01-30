@@ -244,7 +244,7 @@ Build an open-source, community-governed identity infrastructure that empowers i
 
 ```bash
 # Clone repository
-git clone https://github.com/gdib/global-identity-blockchain
+git clone https://github.com/ahsan3219/global-identity-blockchain.git
 cd global-identity-blockchain
 
 # Install dependencies
